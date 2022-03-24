@@ -1,0 +1,21 @@
+body{
+    margin: auto;
+    text-align: center;
+    background-color: #292726;
+    color: whitesmoke;
+}
+
+img{
+    margin: auto;
+}
+
+a{
+    color:crimson;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
